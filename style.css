@@ -7,13 +7,13 @@
 }
 @media(max-width: 769px){
     nav > a{
-        width: 0.4em;
+        width: 20px;
     }
 }
 
 @media(max-width: 425px){
     nav > a{
-        width: 0.3em;
+        width: 20px;
     }
 }
 
@@ -29,7 +29,7 @@
     --cor3: #2fa866;
     --cor4: #1a5c37;
     --cor5: #063d1e;
-/* #063d1e; */
+
     --fonte-padrão: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque:'Bebas Neue', cursive;
     --fonte-android: 'Android', cursive;
