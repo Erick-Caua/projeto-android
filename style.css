@@ -5,17 +5,7 @@
     font-family: Android;
     src: url(pacote-projeto-d010/fontes/idroid.otf) format('opentype');
 }
-@media(max-width: 769px){
-    nav > a{
-        width: 20px;
-    }
-}
 
-@media(max-width: 425px){
-    nav > a{
-        width: 20px;
-    }
-}
 
 *{
     margin: 0px;
